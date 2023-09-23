@@ -1,2 +1,2 @@
 This is a test file
-My first change
+My first change.
